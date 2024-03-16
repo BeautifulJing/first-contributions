@@ -66,6 +66,7 @@ igntius praise
 - [Loveday Ikegbulam](https://github.com/lovedayikegbulam)
 - [Pradip Manna](https://github.com/Loosify00)
 - [Rahul Patanwadia](https://github.com/Rahul-Patanwadia)
+- [Wilovy09](https://github.com/Wilovy09)
 - [Azra Naseri](https://github.com/AzraNaseri)(https://www.linkedin.com/in/azra-naseri/)
   [Shubham Kumar] ((https://github.com/)
 - [Arshea Atif](https://github.com/arshea-02)
@@ -74,6 +75,7 @@ Hannah Sung
 - ferrrr
 - [Pratik Mangalore]
 - [Irie B]
+- [Nathan850](https://github.com/az567812az)
 - [Ashish Lakra](https://github.com/ashishlakraa)
 - [Lakshmi Suhrutha]
 - [Jal shah](https://github.com/Jal5452)
@@ -151,6 +153,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 - [Yauhen Yushkevich](https://github.com/eugenyush)
 - [Maxwell Bruce](https://github.com/MWBruce)
 - [Yodit Abebe] (https://github.com/yodit93)
+- [jatin] (https://github.com/notjatin)
 - [vempr] (https://github.com/vempr)
 - [Elly Oyugi](hhttps://github.com/eoyugi)
 -[Miguel Antonio Cortés Muñoz](https://github.com/miguel-dev)
